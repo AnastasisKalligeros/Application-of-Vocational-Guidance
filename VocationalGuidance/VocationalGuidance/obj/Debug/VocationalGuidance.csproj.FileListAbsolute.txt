@@ -1,0 +1,194 @@
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\ApplicationForMissingAnimals.exe.config
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\ApplicationForMissingAnimals.exe
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\ApplicationForMissingAnimals.pdb
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\Google.Protobuf.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\MySql.Data.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\System.Buffers.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\System.Memory.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\ZstdNet.dll
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\Google.Protobuf.pdb
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\Google.Protobuf.xml
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\MySql.Data.xml
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\System.Buffers.xml
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\System.Memory.xml
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\obj\Debug\VocationalGuidance.csproj.AssemblyReference.cache
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\obj\Debug\ApplicationForMissingAnimals.Forgotpassword.resources
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\obj\Debug\ApplicationForMissingAnimals.LoginForm.resources
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\obj\Debug\ApplicationForMissingAnimals.Properties.Resources.resources
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\obj\Debug\ApplicationForMissingAnimals.RegisterForm.resources
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\obj\Debug\VocationalGuidance.csproj.GenerateResource.cache
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\obj\Debug\VocationalGuidance.csproj.CoreCompileInputs.cache
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\obj\Debug\VocationalGuidance.csproj.CopyComplete
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\obj\Debug\ApplicationForMissingAnimals.exe
+C:\Users\tasso\Desktop\ApplicationForMissingAnimals\obj\Debug\ApplicationForMissingAnimals.pdb
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\ApplicationForMissingAnimals.exe.config
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\ApplicationForMissingAnimals.exe
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\ApplicationForMissingAnimals.pdb
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\Google.Protobuf.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\MySql.Data.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\System.Buffers.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\System.Memory.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\ZstdNet.dll
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\Google.Protobuf.pdb
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\Google.Protobuf.xml
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\MySql.Data.xml
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\System.Buffers.xml
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\System.Memory.xml
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\VocationalGuidance.csprojAssemblyReference.cache
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Forgotpassword.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.LoginForm.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Properties.Resources.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.RegisterForm.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.GenerateResource.cache
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.CoreCompileInputs.cache
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.CopyComplete
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.exe
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.pdb
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.mainform.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class1.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class2.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class3.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class4.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class5.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class6.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.QuizForm.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Statistics.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Preferences.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.LoginHelper.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.RegisterHelper.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.ForgotPasswordHelper.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.mainHelper.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.classHelper.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.QuizHelper.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.StatisticHelper.resources
+C:\Users\Παπακωστας\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.PreferenceHelper.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.AssemblyReference.cache
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.exe
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.pdb
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\ApplicationForMissingAnimals.exe.config
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\ApplicationForMissingAnimals.exe
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\ApplicationForMissingAnimals.pdb
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\Google.Protobuf.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\MySql.Data.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\System.Buffers.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\System.Memory.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\ZstdNet.dll
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\Google.Protobuf.pdb
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\Google.Protobuf.xml
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\MySql.Data.xml
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\System.Buffers.xml
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\System.Memory.xml
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tasso\Desktop\VocationalGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class1.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class2.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class3.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class4.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class5.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class6.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.classHelper.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Forgotpassword.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.ForgotPasswordHelper.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.LoginForm.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.LoginHelper.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.mainform.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.mainHelper.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.PreferenceHelper.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Preferences.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Properties.Resources.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.QuizForm.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.QuizHelper.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.RegisterForm.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.RegisterHelper.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.StatisticHelper.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Statistics.resources
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.GenerateResource.cache
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.CoreCompileInputs.cache
+C:\Users\tasso\Desktop\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.CopyComplete
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\ApplicationForMissingAnimals.exe.config
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\ApplicationForMissingAnimals.exe
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\ApplicationForMissingAnimals.pdb
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\Google.Protobuf.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\MySql.Data.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\System.Buffers.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\System.Memory.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\ZstdNet.dll
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\Google.Protobuf.pdb
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\Google.Protobuf.xml
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\MySql.Data.xml
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\System.Buffers.xml
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\System.Memory.xml
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.AssemblyReference.cache
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class1.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class2.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class3.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class4.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class5.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.class6.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.classHelper.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Forgotpassword.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.ForgotPasswordHelper.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.LoginForm.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.LoginHelper.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.mainform.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.mainHelper.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.PreferenceHelper.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Preferences.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Properties.Resources.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.QuizForm.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.QuizHelper.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.RegisterForm.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.RegisterHelper.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.StatisticHelper.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.Statistics.resources
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.GenerateResource.cache
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.CoreCompileInputs.cache
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\VocationalGuidance.csproj.CopyComplete
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.exe
+C:\Users\tasso\Desktop\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ Π19253-Π19044\VocationalGuidance\obj\Debug\ApplicationForMissingAnimals.pdb

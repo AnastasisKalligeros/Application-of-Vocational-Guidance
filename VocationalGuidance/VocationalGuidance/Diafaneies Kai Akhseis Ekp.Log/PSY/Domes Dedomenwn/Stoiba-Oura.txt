@@ -1,0 +1,26 @@
+1. Ποιος από τους παρακάτω κώδικες αφορά την προσθήκη στην στοίβα;
+Α. Stack<T>& Stack<T>::Delete(T& x){
+if (IsEmpty()) throw OutOfBounds(); 
+x = stack[top--];
+return *this;}
+Β. Stack<T>& Stack<T>::Add(const T& x){ (Σωστό)
+ if (IsFull()) throw NoMem(); 
+stack[++top] = x;
+return *this;}
+Γ. Stack<T>::Stack(int MaxStackSize){
+MaxTop = MaxStackSize - 1;
+stack = new T[MaxStackSize];
+top = -1;}
+
+2. Η δομή της ουράς ειναι τύπου LIFO (Last in- First Out):
+Σ
+Λ (Σωστό)
+
+3. Η δομή της στοίβας ειναι τύπου LIFO (Last in- First Out):
+Σ (Σωστό)
+Λ
+
+4. Περιορισμένος τύπος γραμμικής λίστας: Εισαγωγή στο ένα άκρο (στο τέλος) και διαγραφή από το άλλο (την αρχή). 
+Στοίβα
+Ουρά (Σωστό)
+Συνδεδεμένη στοίβα
