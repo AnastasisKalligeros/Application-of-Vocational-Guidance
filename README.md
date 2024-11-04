@@ -14,8 +14,8 @@ The application was implemented in Visual C# visual-parallel programming languag
 
 <b>Ιnstallation Ιnstructions: </b> </br> </br>
 
-1. Download the projects.
-2. Open the projects with Visual Studio.
+1. Download the project.
+2. Open the project with Visual Studio.
 3. Connect to PostgreSQL
 4. Run the application and explore all its functions. </br> </br>
 
